@@ -2,7 +2,7 @@ HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
 =======
 This is a portfolio website template for developers. It is built with HTML, CSS, JavaScript and Bootstrap 5. It is fully responsive and looks great on all devices. It is also very easy to customize.
 
-![Screenshot](images/Screenshot.png)
+![Screenshot](images/screenshot.png)
 
 ## Features ##
 * Fully Responsive
