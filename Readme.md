@@ -1,6 +1,43 @@
 HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
 =======
-![Peek 2022-01-24 11-06](https://user-images.githubusercontent.com/11813341/150726892-d47d1860-b157-4453-aab0-860b1328b25c.gif)
+This is a portfolio website template for developers. It is built with HTML, CSS, JavaScript and Bootstrap 5. It is fully responsive and looks great on all devices. It is also very easy to customize.
+
+![Screenshot](images/Screenshot.png)
+
+## Features ##
+* Fully Responsive
+* Clean and Modern Design
+* Easy to Customize
+* Google Map
+* Contact Form
+
+## How to use ##
+* Clone the repository or download the zip file.
+* Open index.html in your browser.
+
+## How to customize ##
+* Open index.html in your favorite text editor.
+* Change the content.
+
+## How to change the background image ##
+* Open index.html in your favorite text editor.
+* Change the `background-image` property of the `header` element.
+* You can also change the background image of the `header` element in the `style.css` file.
+
+## How to change the google map ##
+* Open index.html in your favorite text editor.
+* Change the `src` attribute of the `iframe` element.
+* You can also change the google map in the `style.css` file.
+
+## How to change the contact form ##
+* Open index.html in your favorite text editor.
+* Change the `action` attribute of the `form` element.
+* You can also change the contact form in the `style.css` file.
+
+## How to change the social links ##
+* Open index.html in your favorite text editor.
+* Change the `href` attribute of the `a` elements.
+* You can also change the social links in the `style.css` file.
 
 # Tools used #
 * HTML, CSS and JavaScript
@@ -8,4 +45,4 @@ HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
 * [Font Awesome 5](https://fontawesome.com/)
 * [google map](https://www.embed-map.com/)
 
-This is the [live demo](https://brad-portfolio.netlify.app/) of the project . 
+ 
